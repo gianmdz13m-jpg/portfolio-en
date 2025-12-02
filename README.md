@@ -11,13 +11,15 @@ Analyst @ Leasy asd asd
 - Big impact project 2
 
 ### Data Science Projects
-Financial Project
+Financial Project (link)
 - Project Description
 
-HR Project
+HR Project (link)
 - Project Description
 
 ### Visualization Projects
 
-- HR PBI
+- HR PBI 
+  IMG + link
 - One other PBI
+  IMG + link
