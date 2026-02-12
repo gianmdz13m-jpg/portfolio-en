@@ -1,25 +1,21 @@
 # Data Analyst
 
-#### Technical Skills: skill 1, skill 2, skill 3, etc.
+#### Technical Skills: Power BI, Looker, BigQuery, SQL, Python.
 
-### Education
-TBA, TBA
+## Education
+- B.S., Psychology | University of Lima at Lima, Peru (_February 2022_)								       		
+- Especialization, People Analytics	| Pontifical Catholic University of Peru at Lima, Peru (_October 2024_)	 			        		
 
-### Work Experience
-Analyst @ Leasy asd asd
-- Big impact project 1
-- Big impact project 2
+## Work Experience
+**Data Analyst @ Leasy (_July 2023 - Present_)**
+- Big impact 1
+- Big impact 2
+- Big impact 3
 
-### Data Science Projects
-Financial Project (link)
+## Projects
+### Sales Performance Dashboard of an Online Videogame Store
 - Project Description
 
-HR Project (link)
+### Multi-page Human Resources Report of a Production Company
 - Project Description
 
-### Visualization Projects
-
-- HR PBI 
-  IMG + link
-- One other PBI
-  IMG + link
