@@ -21,6 +21,8 @@ The goal of this project is to analyze revenue variation and affected products o
 
 - The interactive Power BI dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiMTc5YTM0NDktOTMyOS00NjU0LWFhODQtY2JiMWZlNDZlOTNjIiwidCI6ImU0NmQzODYyLTg1OTUtNDVkMS05YjY5LTYzMDc5OGQ4OTAyZCIsImMiOjR9).
 
+![SalesDB](/salesdashboard.png)
+
 ### Multi-page Human Resources Report of a Production Company
 Developed an interactive, production-ready report for Human Resources focusing on four areas: Staff, Engagement, Training and Recruitment and their respective KPI's.
 
